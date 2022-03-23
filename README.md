@@ -2,7 +2,7 @@
 Simple notification application!
 There are a notification push center. When it pushing any message, the clients that adding as observer receive simultaneously.
 
-Assume that every single frame some client(your costumer phones, and tablets). So your message or notification should be diffrenet for every single devices. So i used;
+Assume that every single frame some client(your costumer phones, and tablets). So your message or notification should be diffrenet for every single devices. Thus i used;
 
 
 - interface(Display) -> As your imagine :)
