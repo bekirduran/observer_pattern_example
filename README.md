@@ -1,5 +1,7 @@
 # observer_pattern_example
 Simple notification application!
+There are a notification push center. When it pushing any message, the clients that adding as observer receive simultaneously.
+ 
 
 
 
