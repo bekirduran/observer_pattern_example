@@ -9,8 +9,7 @@ Assume that every single frame some client(your costumer phones, and tablets). S
 - interface(Observer)-> TV, Phone, Tablet
 - interface(Subject) -> PresitendalOffice
 
-
- 
+When the client(user of TV, Phone, Tablet) unsubsrice, they dont receive any message because they removed from our observer list.
 
 ### Screen Images 1
 
