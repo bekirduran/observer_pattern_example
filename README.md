@@ -8,7 +8,7 @@ There are a notification push center. When it pushing any message, the clients t
 
 # Screen Images 1
 
-<img src=/src/screenshots/ss1.PNG width="950" height="700" >
+<img src=/observer_pattern_example/src/screenshots/ss1.PNG width="950" height="700" >
 
 
 
