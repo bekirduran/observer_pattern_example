@@ -15,7 +15,7 @@ There are a notification push center. When it pushing any message, the clients t
 
 ### Screen Images 2
 
-<img src=/src/screenshots/ss2.PNG width="950" height="700" >
+<img src=src/screenshots/ss2.PNG width="950" height="700" >
 
 
 
