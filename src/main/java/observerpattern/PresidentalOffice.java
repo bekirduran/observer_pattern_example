@@ -19,7 +19,7 @@ public class PresidentalOffice implements Subject{
 
     public void setMsg(String msg) {
         this.msg = msg;
-        notifyObserver();
+        statusChange();
     }
 
     public PresidentalOffice() {
@@ -41,7 +41,6 @@ public class PresidentalOffice implements Subject{
             System.out.println("There is no observer!");
         }else{
             observers.remove(index);
-                     
         }            
         
     }
