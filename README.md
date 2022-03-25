@@ -11,6 +11,10 @@ Assume that every single frame some client(your costumer phones, and tablets). S
 
 When the client(user of TV, Phone, Tablet) unsubsrice, they dont receive any message because they removed from our observer list.
 
+### UML Diagram
+<img src= /src/screenshots/ss5.png width="676" height="438" >
+
+
 ### Screen Images 1
 
 <img src= /src/screenshots/ss1.png width="950" height="700" >
