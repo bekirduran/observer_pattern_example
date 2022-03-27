@@ -17,25 +17,25 @@ When the client(user of TV, Phone, Tablet) unsubsrice, they dont receive any mes
 
 ### Screen Images 1
 
-<img src= /src/screenshots/ss1.png width="950" height="700" >
+<img src= /src/screenshots/ss1.png width="1428" height="870" >
 
 
 
 
 ### Screen Images 2
 
-<img src=/src/screenshots/ss2.png width="950" height="700" >
+<img src=/src/screenshots/ss2.png width="1428" height="870" >
 
 
 
 
 ### Screen Images 3
 
-<img src=/src/screenshots/ss3.png width="950" height="700" >
+<img src=/src/screenshots/ss3.png width="1428" height="870" >
 
 
 
 
 ### Screen Images 4
 
-<img src=/src/screenshots/ss4.png width="950" height="700" >
+<img src=/src/screenshots/ss4.png width="1428" height="870" >
